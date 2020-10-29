@@ -13,9 +13,11 @@ Momenteel gebruik ik de volgende onderdelen :
 - 4x Relais bord
 - Diverse reed kontakten
 - Step down converter ( 12v in / 5v uit )
-- Powerbank / 12V Accu 
+- 12V Accu / Powerbank
+
 
 Als het goed gaat moet dit de volgende taken kunnen uitvoeren : 
+
 
 Stroomverbruik
 - Stroomverbruik en Totale kosten berekenen voor 1x een 220v 16Amp groep.
