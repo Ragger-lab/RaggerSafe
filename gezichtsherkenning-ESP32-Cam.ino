@@ -8,7 +8,7 @@
  
  
 const char* ssid = "Lostplace";
-const char* password = "peterhoed3";
+const char* password = "********";
  
 // Arduino like analogWrite
 // value has to be between 0 and valueMax
