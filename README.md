@@ -38,7 +38,10 @@ IOT
 - 4x 5v I/O on Ardunio Uno
 
 Diverse
-Wifi / Bluetooth Connected
-Data en Video naar de Cloud
-LCD and pusbutton switches
-UPS
+
+- Wifi / Bluetooth Connected
+- Data en Video naar de Cloud 
+- LCD and pusbutton switches
+- UPS
+
+
