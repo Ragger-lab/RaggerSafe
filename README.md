@@ -10,7 +10,7 @@ Momenteel gebruik ik de volgende onderdelen :
 - Ardunio Uno.
 - RaspBerryPi 4
 - DF-Robot Keypad shield.
-- EP32-Cam ( met externe antenne ).
+- ESP32-Cam 2x ( met externe antenne ).
 - Stroom- ( tot 30Amp ), Ultrasone- , PIR- , Flame- en Gas-detectie modules.
 - Temparatuur, Vochtigheid en Licht sensoren.
 - 4x Relais bord.
@@ -40,13 +40,24 @@ Video :
 IOT :
 - 4x Relay
 - 4x 5v I/O on ESP32-Cam
-- 4x 5v I/O on Ardunio Uno
 
 Diverse :
 
 - Wifi / Bluetooth Connected
-- Data en Video naar de Cloud 
+- Data en Video Cloud 
 - LCD and pusbutton switches
 - UPS
+
+Web :
+
+- Read / Change Status IOT
+- Live / Playback Video
+- Read log file´s
+- Admin RaggerSafe
+
+
+----------------- _/oo\_ ----------------- 
+                  112020
+
 
 
