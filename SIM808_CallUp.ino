@@ -18,7 +18,7 @@ SoftwareSerial mySerial(PIN_TX,PIN_RX);
 DFRobot_SIM808 sim808(&mySerial);//Connect RX,TX,PWR,
 
 //Mobile phone number,need to change
-#define PHONE_NUMBER  "0031617157951"   
+#define PHONE_NUMBER  "00316********"   
 
 //DFRobot_SIM808 sim808(&Serial);
 
