@@ -8,6 +8,7 @@ alles nog in een mooi jasje worden gegoten en tot een geheel komen.
 
 Momenteel gebruik ik de volgende onderdelen :
 - Ardunio Uno.
+- RaspBerryPi 4
 - DF-Robot Keypad shield.
 - EP32-Cam ( met externe antenne ).
 - Stroom- ( tot 30Amp ), Ultrasone- , PIR- , Flame- en Gas-detectie modules.
